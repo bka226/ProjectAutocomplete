@@ -1,0 +1,43 @@
+Here are a few sample executions:
+$ ./AutocompleteProgram Samplecities.txt 5↵
+Time for sorting all terms: 0.19013 seconds.
+Please input the search query(type "exit" to quit):
+C↵
+Time for searching all matched terms: 2.2127 seconds. 7734614 Cairo, Egypt
+4328063 Chennai, India
+3967028 Chongqing, China
+3950437 Chengdu, China
+3920222 Chittagong, Bangladesh
+Please input the search query(type "exit" to quit):
+Zh↵
+Time for searching all matched terms: 0.089648 seconds. 8263100 Zhumadian, China
+2493400 Zhongshan, China
+2014125 Zhengzhou, China
+1000000 Zhu Cheng City, China
+709358 Zhuzhou, China
+
+
+Please input the search query(type "exit" to quit):
+p↵
+Time for searching all matched terms: 0.127488 seconds. 10655 patamda, India
+2500 pedda nakkalapalem, India
+1081 pamas, Iran
+Please input the search query(type "exit" to quit):
+P↵
+Time for searching all matched terms: 1.43714 seconds. 3678555 Pusan, South Korea
+3590000 Puyang, China
+3222000 Pyongyang, North Korea
+2935744 Pune, India
+2138551 Paris, France
+Please input the search query(type "exit" to quit):
+ch↵
+Time for searching all matched terms: 0.132758 seconds. Please input the search query(type "exit" to quit):
+Ch↵
+Time for searching all matched terms: 0.16009 seconds. 4328063 Chennai, India
+3967028 Chongqing, China
+3950437 Chengdu, China
+3920222 Chittagong, Bangladesh
+2695598 Chicago, Illinois, United States
+
+Please input the search query(type "exit" to quit):
+exit↵
